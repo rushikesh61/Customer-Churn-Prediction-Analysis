@@ -149,3 +149,7 @@ Rushikesh Mhaske
 (Data Analyst / Data Science Enthusiast)
 
 ---
+
+## 📷 Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/a69c712c-ee91-44fb-b40d-be26234c9925)
