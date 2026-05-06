@@ -143,13 +143,21 @@ The insights generated can help businesses make data-driven decisions to improve
 
 ---
 
+
+## 📊 Results
+
+- Model Accuracy: ~82%
+- Churn Rate: ~26%
+- Key Factors: Contract type, Monthly charges, Tenure
+
+## 📷 Dashboard
+
+![Dashboard](dashboard/dashboard.png)
+
+----
 ## 👨‍💻 Author
 
 Rushikesh Mhaske
 (Data Analyst / Data Science Enthusiast)
 
 ---
-
-## 📷 Dashboard
-
-![Dashboard](https://github.com/user-attachments/assets/a69c712c-ee91-44fb-b40d-be26234c9925)
